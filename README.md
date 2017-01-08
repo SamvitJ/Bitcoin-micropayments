@@ -1,6 +1,8 @@
 **Monetization on the Modern Web: Automated Micropayments from Bitcoin-Enabled Browsers**
 
-A prototype implementation of a Bitcoin micropayments-based revenue system for online content publishers.
+A prototype implementation of a Bitcoin miropayments-based monetization system for online content.
+
+The client-side software enables users to pay for access to web resources (e.g. news articles, API endpoints, live video streams) in Bitcoin, without entering into a long-standing contract with the content provider. The server-side software enables hosts to charge clients for usage in a granular, secure, scalable way.
 
 This repository links to the four software components of the system:
 - [Monetized webpage](https://github.com/SamvitJ/micropayments-webpage) - a sample webpage supported by two independent monetization schemes - 1) Google AdSense advertising and 2) a backing payments server that renders an ad-free version of the page if a visitor pays the requested Bitcoin fee. We implemented the [page](http://www.micropayments.tech/) as a single-page Node.js webapp hosted on Heroku.
