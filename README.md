@@ -14,5 +14,4 @@ This repository links to the four software components of the system:
 
 For more information, please see Section 5 of our [paper](http://www.samvitjain.com/projects/micropayments-paper.pdf).
 
-Authors: Samvit Jain, Arvind Narayanan  
 Institution: Department of Computer Science, Princeton University  
