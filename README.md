@@ -12,6 +12,6 @@ This repository links to the four software components of the system:
 
 ![Client-Server Setup](https://github.com/SamvitJ/Bitcoin-micropayments/blob/master/http-402-setup.png)
 
-For more information, please see Section 5 of our [paper](http://www.samvitjain.com/projects/micropayments-paper.pdf).
+For more information, please see Section 5 of our [paper](http://www.samvitjain.com/assets/micropayments-paper.pdf).
 
 Institution: Department of Computer Science, Princeton University  
